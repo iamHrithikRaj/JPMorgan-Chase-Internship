@@ -1,4 +1,4 @@
-# JPMorgan-Chase-Internship\
+# JPMorgan-Chase-Internship
 
 ## Task 1
 1. Set up my system by downloading the necessary repository, files, tools and dependencies
